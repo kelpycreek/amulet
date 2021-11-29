@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "amulet/static/css/main.5e4e59ec.chunk.css",
-    "main.js": "amulet/static/js/main.f3deb401.chunk.js",
-    "main.js.map": "amulet/static/js/main.f3deb401.chunk.js.map",
-    "runtime-main.js": "amulet/static/js/runtime-main.5dddf48a.js",
-    "runtime-main.js.map": "amulet/static/js/runtime-main.5dddf48a.js.map",
-    "static/js/2.b0fb4968.chunk.js": "amulet/static/js/2.b0fb4968.chunk.js",
-    "static/js/2.b0fb4968.chunk.js.map": "amulet/static/js/2.b0fb4968.chunk.js.map",
-    "index.html": "amulet/index.html",
-    "static/css/main.5e4e59ec.chunk.css.map": "amulet/static/css/main.5e4e59ec.chunk.css.map",
-    "static/js/2.b0fb4968.chunk.js.LICENSE.txt": "amulet/static/js/2.b0fb4968.chunk.js.LICENSE.txt"
+    "main.css": "/amulet/static/css/main.5e4e59ec.chunk.css",
+    "main.js": "/amulet/static/js/main.f3deb401.chunk.js",
+    "main.js.map": "/amulet/static/js/main.f3deb401.chunk.js.map",
+    "runtime-main.js": "/amulet/static/js/runtime-main.71e8978c.js",
+    "runtime-main.js.map": "/amulet/static/js/runtime-main.71e8978c.js.map",
+    "static/js/2.d2c42116.chunk.js": "/amulet/static/js/2.d2c42116.chunk.js",
+    "static/js/2.d2c42116.chunk.js.map": "/amulet/static/js/2.d2c42116.chunk.js.map",
+    "index.html": "/amulet/index.html",
+    "static/css/main.5e4e59ec.chunk.css.map": "/amulet/static/css/main.5e4e59ec.chunk.css.map",
+    "static/js/2.d2c42116.chunk.js.LICENSE.txt": "/amulet/static/js/2.d2c42116.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dddf48a.js",
-    "static/js/2.b0fb4968.chunk.js",
+    "static/js/runtime-main.71e8978c.js",
+    "static/js/2.d2c42116.chunk.js",
     "static/css/main.5e4e59ec.chunk.css",
     "static/js/main.f3deb401.chunk.js"
   ]

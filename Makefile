@@ -5,7 +5,7 @@ clean:
 	rm -rf static
 
 build: clean
-	PUBLIC_URL=amulet yarn build
+	yarn build
 	echo "copying"
 	cp -rf build/* ./
 	echo "removing"
