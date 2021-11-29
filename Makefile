@@ -2,7 +2,7 @@ run:
 	yarn start
 
 build:
-	yarn build
+	PUBLIC_URL=amulet yarn build
 	echo "copying"
 	cp -rf build/* ./
 	echo "removing"
